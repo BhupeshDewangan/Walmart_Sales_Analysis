@@ -72,7 +72,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-3. **Conclusion:**
+3. **Conclusion:** : All the Below questions are solved by SQL queries, Please check !
 
 ## Business Questions To Answer
 
